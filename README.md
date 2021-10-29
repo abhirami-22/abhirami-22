@@ -1,13 +1,9 @@
 ### Hi there, I'm Abhirami 👋
-🔭 *Pursuing Integrated MCA.*
-
-🤞  *Looking forward to working as a software developer.*
-
-👩‍💻 *Love coding in C, C++ and Python.*
-
-🌱 *Currently learning to work with Laravel 8.*
-
-🤖 *Interested in web development.*
+🔭 *Pursuing Integrated MCA.* <br />
+🤞  *Looking forward to working as a software developer.* <br />
+👩‍💻 *Love coding in C, C++ and Python.* <br />
+🌱 *Currently learning to work with Laravel 8.* <br />
+🤖 *Interested in web development.* <br />
 
 <!--
 **lionking2000/lionking2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
