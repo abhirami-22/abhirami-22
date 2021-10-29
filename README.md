@@ -1,9 +1,13 @@
 ### Hi there, I'm Abhirami 👋
-🔭 I’m currently pursuing Integrated MCA at Amrita School of Arts and Sciences, Kochi.
+🔭 Pursuing Integrated MCA.
 
-🤞  I’m looking forward to working as a Software Developer.
+🤞  Looking forward to working as a software developer.
 
-🌱 Area of Interest: Web Development, Python Programming.
+👩‍💻 Familiar with C, C++, Python.
+
+🌱 Currently learning to work with Laravel 8.
+
+🤖 Interested in web development.
 
 <!--
 **lionking2000/lionking2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
