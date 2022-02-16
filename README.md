@@ -2,7 +2,6 @@
 🔭 *Pursuing Integrated MCA.* <br />
 🤞  *Looking forward to working as a software developer.* <br />
 👩‍💻 *Love coding in C, C++ and Python.* <br />
-🌱 *Currently learning to work with Laravel 8.* <br />
 🤖 *Interested in web development.* <br />
 
 <!--
